@@ -6,7 +6,7 @@ theme = "vncnt-hugo"
 [params]
   author = "Dominik Heußen"
   email = "web@dominikheussen.de"
-  description = "Dominik Heußen, team lead, software engineer, trivago, hilden, düsseldorf, nettetal"
+  description = "Dominik Heussen, team lead, software engineer, trivago, hilden, düsseldorf, nettetal"
   bio = "team lead, software engineer.  \ndog, car, smart home, tech guy."
   avatar = "img/avatar.jpg"
   favicon = "img/avatar.ico"
